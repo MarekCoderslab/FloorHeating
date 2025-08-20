@@ -1,2 +1,1 @@
-# FloorHeating
-Gas consumption [m3/day] in the years
+For the first processing of the equithermal regulation of the mentioned house, I downloaded data from the home meteorological station. This data was insufficient, so the CHMI project (TempImport_Equitherm) was created from the FloorHeating (Gas consumption) project.
